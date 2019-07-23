@@ -34,9 +34,10 @@ public class Cmfz5Application {
         System.out.println("**********************");
         System.out.println("**********************");
         System.out.println("**********************");
-        System.out.println("@@@@@@@@@@@@@@@@@@@@@@@");
-        System.out.println("@@@@@@@@@@@@@@@@@@@@@@@");
-        System.out.println("@@@@@@@@@@@@@@@@@@@@@@@");
+        System.out.println("######################");
+        System.out.println("######################");
+        System.out.println("######################");
+
 
 
         // 1. 需要定义一个converter转换消息的对象
